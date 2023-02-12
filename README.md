@@ -1,1 +1,6 @@
-one more time a first commit 
+![q2.1_answer.PNG](..%2F..%2Fq2.1_answer.PNG)
+[q2.1_full_answer](..%2F..%2Fq2.1_full_answer)
+![q3.3_answer.PNG](..%2F..%2Fq3.3_answer.PNG)
+[q3.3_full_answer](..%2F..%2Fq3.3_full_answer)
+![q4.2_answer.PNG](..%2F..%2Fq4.2_answer.PNG)
+[q4.2_full_answer](..%2F..%2Fq4.2_full_answer)
